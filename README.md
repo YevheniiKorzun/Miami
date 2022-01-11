@@ -10,4 +10,4 @@
 - Tablet 1024
 - Mobile (> 320px)
 
-<b>[Preview](https://yevheniikorzun.github.io/layout_miami/)</b>
+<b>[Preview](https://yevheniikorzun.github.io/miami/)</b>
